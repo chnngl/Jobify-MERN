@@ -12,3 +12,5 @@ export { default as ChartContainer } from "./ChartContainer";
 export { default as StatsContainer } from "./StatsContainer";
 export { default as BarChart } from "./BarChartComponent";
 export { default as AreaChartComponent } from "./AreaChartComponent";
+export { default as Loading } from "./Loading";
+export { default as ErrorElement } from "./ErrorElement";
