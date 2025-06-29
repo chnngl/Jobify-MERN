@@ -12,15 +12,14 @@ const Landing = () => {
       <div className="container page">
         <div className="info">
           <h1>
-            job <span>tracking </span>app
+            Jobify <span>tracking </span>app
           </h1>
           <p>
-            I'm baby trust fund everyday carry bodega boys pok pok blackbird
-            spyplane offal, tumeric biodiesel retro chillwave selfies. Adaptogen
-            lo-fi la croix, kogi same forage scenester intelligentsia
-            dreamcatcher schlitz put a bird on it tumblr. Brooklyn master
-            cleanse tumblr, praxis enamel pin vibecession kinfolk jawn. Coloring
-            book occupy kickstarter vaporware fam trust fund celiac tote bag.
+            Welcome to Jobify, your personal assistant for managing job
+            applications. Track every role you’ve applied to, stay organized
+            with statuses and notes, and never miss a follow-up again. Whether
+            you're job hunting actively or passively, we will you stay focused,
+            efficient, and in control of your career journey.
           </p>
           <Link to="/register" className="btn register-link">
             Register
