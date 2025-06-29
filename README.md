@@ -1,6 +1,6 @@
 # 🗂️ MERN Job Application Tracker
 
-A full-stack web application built with the MERN stack (MongoDB, Express.js, React, Node.js) to help users manage and track their job applications. The app includes search, filtering, pagination, and a personalized dashboard for monitoring application progress.
+A full-stack web application built with the MERN stack (MongoDB, Express.js, React, Node.js) to help users manage and track their job applications. The app includes search, filtering, pagination, and a personalized dashboard for monitoring application progress. Live version: https://mern-jobify-1.onrender.com
 
 ## 🚀 Features
 
